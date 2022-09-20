@@ -1,9 +1,6 @@
 ### Salve! Eu sou o João Martins...
 
 - 🧑‍💼 Atualmente trabalhando com RPA.
-
-- 👨‍💻 Estudando Front-End e UI/UX.
-
 - 📚 Cursando Análise e Desenvolvimento de Sistemas.
 
 
