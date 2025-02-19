@@ -18,17 +18,6 @@ Sou um **Desenvolvedor e Analista RPA Pleno** apaixonado por tecnologia, automa�
 - **Ferramentas:** Jira, Confluence, GitHub Actions, Docker
 - **Metodologias:** Scrum, Kanban, Agile
 
-## 📊 Experiências
-### 📍 Yank Solutions - Analista/Desenvolvedor RPA Pleno *(2023 - Presente)*
-- Desenvolvi RPA’s e APIs REST utilizando **Automation Anywhere**,**UiPath**, **Python**,**Java** e **Spring Boot**.
-- Realizei **documentação completa (PDD/SDD)** e implantei soluções em produção.
-- Participei da migração de bots em **Java** para **Automation Anywhere**.
-
-### 📍 Triad Systems - Desenvolvedor RPA *(2021 - 2023)*
-- Desenvolvi RPA’s em **UiPath** e **Automation Anywhere 360/v11**.
-- Atuei em **sustentação e monitoramento** de robôs em produção.
-- Documentei processos e entreguei soluções para **telecom, manufatura e finanças**.
-
 ## 📈 Status GitHub
 ![Jotace02's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jotace02&show_icons=true&theme=radical)
 
