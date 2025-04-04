@@ -18,12 +18,8 @@ Sou um **Desenvolvedor e Analista RPA Pleno** apaixonado por tecnologia, automa�
 - **Ferramentas:** Jira, Confluence, GitHub Actions, Docker
 - **Metodologias:** Scrum, Kanban, Agile
 
-## 📈 Status GitHub
-![Jotace02's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jotace02&show_icons=true&theme=radical)
 
 ## 📫 Como Me Encontrar
-- 📧 E-mail: joaomartins9807@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/joaoc-martins/)
 - 🌐 [Portfólio](https://jotace02.github.io/meu-portifolio/)
-- 🐙 [GitHub](https://github.com/Jotace02)
 
