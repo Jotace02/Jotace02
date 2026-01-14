@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou João Carlos Martins (@Jotace02)!
 
-Sou um **Desenvolvedor e Analista RPA Pleno** apaixonado por tecnologia, automação e inovação. Com mais de **4 anos de experiência** em desenvolvimento RPA, ajudo empresas a se libertarem de processos repetitivos através de soluções inteligentes e automatizadas.
+Sou um **Desenvolvedor e Analista RPA Sênior** apaixonado por tecnologia, automação e inovação. Com mais de **5 anos de experiência** em desenvolvimento RPA, ajudo empresas a se libertarem de processos repetitivos através de soluções inteligentes e automatizadas.
 
 ## 🚀 Sobre Mim
 - 💼 **Profissional:** Experiência em consultorias renomadas como **Yank Solutions** e **Triad Systems**, atuando no ciclo completo de projetos, desde o **mapeamento** até a **implantação**.
