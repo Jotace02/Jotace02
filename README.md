@@ -11,7 +11,7 @@ Sou um **Desenvolvedor e Analista RPA Sênior** apaixonado por tecnologia, autom
 
 ## 💻 Tecnologias e Ferramentas
 - **Linguagens:** Java, Python, JavaScript, VBA, VBScript
-- **RPA:** Automation Anywhere, UiPath, Selenium, Sikuli
+- **RPA:** Automation Anywhere, UiPath, Selenium, Sikuli, Power Automate, N8N
 - **Frameworks:** Spring Boot (Java), Flask (Python)
 - **Banco de Dados:** MySQL, PostgreSQL, SQL Server
 - **Versionamento:** Git, GitHub, SVN
